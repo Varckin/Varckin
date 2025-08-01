@@ -16,6 +16,5 @@
   <a href="https://github.com/Varckin"><img height="169em" width="383em" src="https://github-readme-stats.vercel.app/api?username=Varckin&count_private=true&theme=github_dark&show_icons=true"/></a>
   <a href="https://github.com/Varckin"><img height="169em" width="344em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varckin&langs_count=3&theme=github_dark"/></a>
 </div>
-<a href="https://github.com/Varckin"><img align="center" src="https://profile-counter.glitch.me/Varckin/count.svg"/></p></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
