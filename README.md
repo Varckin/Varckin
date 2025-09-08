@@ -70,9 +70,9 @@ I currently dedicate the bulk of my time to a few standout projects:
 ---
 
 ### Contact
-📫 [Telegram](https://github.com/Varckin)
+📫 [Telegram](https://t.me/Varckin)
 
-📧 [Mail](maestro@varckin.xyz)
+📧 [Mail](mailto:maestro@varckin.xyz)
 
 ## My GitHub Stats
 
