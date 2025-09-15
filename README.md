@@ -31,7 +31,7 @@ I currently dedicate the bulk of my time to a few standout projects:
     🛡️ A shell installer simplifying deployment of **AmneziaWG** (an obfuscated WireGuard setup).  
     Goal: make complex VPN setups approachable and censorship-resistant.
 
-- [**Assistant-Geralt**](https://github.com/Varckin/Assistant-Geralt)  
+- [**Assistant-Geralt**](https://github.com/Varckin/Assistant-Geralt-V3.0)  
     🤖 Personal Telegram bot in Python — experimental, private, and a sandbox for AI-based assistant features.
 
 - [**Webring**](https://github.com/Varckin/Webring)  
